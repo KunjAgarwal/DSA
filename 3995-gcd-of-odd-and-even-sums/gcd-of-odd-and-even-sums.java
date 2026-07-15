@@ -1,17 +1,12 @@
 class Solution {
     public int gcdOfOddEvenSums(int n) {
-        // int sumodd=0;
-        // int sumeven=0;
-        // for(int i=1;i<=2*n;i++){
-        //     if(i%2==0)sumeven+=i;
-        //     else sumodd+=i;
-        // }
-        // while(sumodd!=0){
-        //     int temp=sumodd;
-        //     sumodd=sumeven%sumodd;
-        //     sumeven=temp;
-        // }
-        // return sumeven;
-        return n;
+        int sumodd=n*n;
+        int sumeven=n*(n+1);
+        while(sumodd!=0){
+            int temp=sumodd;
+            sumodd=sumeven%sumodd;
+            sumeven=temp;
+        }
+        return sumeven;
     }
 }
