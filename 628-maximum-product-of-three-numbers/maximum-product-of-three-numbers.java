@@ -2,14 +2,14 @@ class Solution {
     public int maximumProduct(int[] nums) {
         Arrays.sort(nums);
         int n = nums.length;
-        int positiveproduct = nums[n-1]*nums[n-2]*nums[n-3];
-        int negativeproduct =nums[0]*nums[1]*nums[n-1];
-        int maxproduct;
-        if(positiveproduct>negativeproduct){
-            maxproduct=positiveproduct;
+        int pos = nums[n-1]*nums[n-2]*nums[n-3];
+        int neg =nums[0]*nums[1]*nums[n-1];
+        int maxp;
+        if(pos>neg){
+            maxp=pos;
         }else{
-            maxproduct=negativeproduct;
+            maxp=neg;
         }
-        return maxproduct;
+        return maxp;
     }
 }
