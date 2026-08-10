@@ -29,6 +29,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -39,6 +40,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KunjAgarwal/DSA/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KunjAgarwal/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
