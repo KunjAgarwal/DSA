@@ -9,6 +9,7 @@
 | [1323-maximum-69-number](https://github.com/KunjAgarwal/DSA/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KunjAgarwal/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunjAgarwal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KunjAgarwal/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/KunjAgarwal/DSA/tree/master/1323-maximum-69-number) |
+| [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunjAgarwal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -41,6 +43,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
@@ -50,6 +53,7 @@
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/KunjAgarwal/DSA/tree/master/0941-valid-mountain-array) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunjAgarwal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/KunjAgarwal/DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -70,15 +74,18 @@
 | [0877-stone-game](https://github.com/KunjAgarwal/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KunjAgarwal/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KunjAgarwal/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/KunjAgarwal/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -88,6 +95,7 @@
 | ------- |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KunjAgarwal/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
