@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/KunjAgarwal/DSA/tree/master/0771-jewels-and-stones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunjAgarwal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunjAgarwal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KunjAgarwal/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/KunjAgarwal/DSA/tree/master/0877-stone-game) |
@@ -113,6 +116,7 @@
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/KunjAgarwal/DSA/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 ## Tree
@@ -127,6 +131,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KunjAgarwal/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0938-range-sum-of-bst](https://github.com/KunjAgarwal/DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
