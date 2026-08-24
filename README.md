@@ -47,6 +47,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
+| [2733-neither-minimum-nor-maximum](https://github.com/KunjAgarwal/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunjAgarwal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/KunjAgarwal/DSA/tree/master/3731-find-missing-elements) |
@@ -68,6 +69,7 @@
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
+| [2733-neither-minimum-nor-maximum](https://github.com/KunjAgarwal/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunjAgarwal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KunjAgarwal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KunjAgarwal/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
