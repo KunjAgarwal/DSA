@@ -36,6 +36,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/KunjAgarwal/DSA/tree/master/0771-jewels-and-stones) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunjAgarwal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -47,6 +48,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KunjAgarwal/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunjAgarwal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -67,6 +69,7 @@
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/KunjAgarwal/DSA/tree/master/0941-valid-mountain-array) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KunjAgarwal/DSA/tree/master/2733-neither-minimum-nor-maximum) |
