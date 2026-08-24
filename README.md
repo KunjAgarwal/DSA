@@ -48,6 +48,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/KunjAgarwal/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KunjAgarwal/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunjAgarwal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -67,6 +68,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/KunjAgarwal/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/KunjAgarwal/DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/KunjAgarwal/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/KunjAgarwal/DSA/tree/master/0941-valid-mountain-array) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -129,6 +131,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/KunjAgarwal/DSA/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/KunjAgarwal/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Tree
 |  |
 | ------- |
