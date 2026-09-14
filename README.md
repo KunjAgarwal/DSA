@@ -35,6 +35,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/KunjAgarwal/DSA/tree/master/0397-integer-replacement) |
 | [1323-maximum-69-number](https://github.com/KunjAgarwal/DSA/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunjAgarwal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -107,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/KunjAgarwal/DSA/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KunjAgarwal/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
@@ -197,6 +199,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/KunjAgarwal/DSA/tree/master/0397-integer-replacement) |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/KunjAgarwal/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Prefix Sum
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/KunjAgarwal/DSA/tree/master/0836-rectangle-overlap) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/KunjAgarwal/DSA/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
