@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/KunjAgarwal/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/KunjAgarwal/DSA/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/KunjAgarwal/DSA/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
@@ -189,4 +190,8 @@
 | [2485-find-the-pivot-integer](https://github.com/KunjAgarwal/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/KunjAgarwal/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KunjAgarwal/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/KunjAgarwal/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
