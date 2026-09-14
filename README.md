@@ -97,6 +97,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KunjAgarwal/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KunjAgarwal/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KunjAgarwal/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/KunjAgarwal/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KunjAgarwal/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KunjAgarwal/DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KunjAgarwal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -191,11 +192,13 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KunjAgarwal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/KunjAgarwal/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/KunjAgarwal/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/KunjAgarwal/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
