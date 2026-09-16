@@ -5,9 +5,7 @@ class Solution {
             if(num%2==0){
                 num/=2;
             }else{
-                if(num==3 || num%4!=0){
-                    num--;
-                }
+                num--;
             }
             c++;
         }
