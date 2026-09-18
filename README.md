@@ -194,6 +194,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/KunjAgarwal/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KunjAgarwal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/KunjAgarwal/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/KunjAgarwal/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/KunjAgarwal/DSA/tree/master/0397-integer-replacement) |
+## Linked List
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/KunjAgarwal/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
