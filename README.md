@@ -37,6 +37,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/KunjAgarwal/DSA/tree/master/0330-patching-array) |
 | [0397-integer-replacement](https://github.com/KunjAgarwal/DSA/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/KunjAgarwal/DSA/tree/master/0410-split-array-largest-sum) |
 | [1323-maximum-69-number](https://github.com/KunjAgarwal/DSA/tree/master/1323-maximum-69-number) |
@@ -81,6 +82,7 @@
 ## Array
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/KunjAgarwal/DSA/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/KunjAgarwal/DSA/tree/master/0410-split-array-largest-sum) |
