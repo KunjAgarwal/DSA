@@ -33,6 +33,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KunjAgarwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunjAgarwal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KunjAgarwal/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KunjAgarwal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/KunjAgarwal/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/KunjAgarwal/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
