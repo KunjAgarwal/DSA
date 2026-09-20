@@ -83,6 +83,7 @@
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/KunjAgarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0330-patching-array](https://github.com/KunjAgarwal/DSA/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KunjAgarwal/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/KunjAgarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0397-integer-replacement](https://github.com/KunjAgarwal/DSA/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/KunjAgarwal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
@@ -188,6 +190,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/KunjAgarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/KunjAgarwal/DSA/tree/master/0410-split-array-largest-sum) |
@@ -255,4 +258,8 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KunjAgarwal/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/KunjAgarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
