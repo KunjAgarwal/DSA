@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/KunjAgarwal/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KunjAgarwal/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -200,6 +201,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KunjAgarwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Ternary Search
 |  |
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KunjAgarwal/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
