@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/KunjAgarwal/DSA/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KunjAgarwal/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/KunjAgarwal/DSA/tree/master/0836-rectangle-overlap) |
@@ -125,6 +126,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/KunjAgarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0397-integer-replacement](https://github.com/KunjAgarwal/DSA/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/KunjAgarwal/DSA/tree/master/0410-split-array-largest-sum) |
+| [0458-poor-pigs](https://github.com/KunjAgarwal/DSA/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KunjAgarwal/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/KunjAgarwal/DSA/tree/master/0877-stone-game) |
@@ -266,4 +268,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KunjAgarwal/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/KunjAgarwal/DSA/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
