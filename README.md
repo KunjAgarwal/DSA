@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KunjAgarwal/DSA/tree/master/0029-divide-two-integers) |
 | [0458-poor-pigs](https://github.com/KunjAgarwal/DSA/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KunjAgarwal/DSA/tree/master/0509-fibonacci-number) |
@@ -230,6 +231,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KunjAgarwal/DSA/tree/master/0029-divide-two-integers) |
 | [0397-integer-replacement](https://github.com/KunjAgarwal/DSA/tree/master/0397-integer-replacement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KunjAgarwal/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
