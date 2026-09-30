@@ -5,11 +5,11 @@ class Solution {
         int c=0;
         for(int i=0;i<n;i++){
             if(seq.charAt(i)=='('){
+                ans[i]=c%2;
                 c++;
-                ans[i]=c%2;
             }else{
-                ans[i]=c%2;
                 c--;
+                ans[i]=c%2;
             }
         }
         return ans;
