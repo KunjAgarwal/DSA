@@ -35,6 +35,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/KunjAgarwal/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KunjAgarwal/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/KunjAgarwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/KunjAgarwal/DSA/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KunjAgarwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjAgarwal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -47,6 +48,7 @@
 | [0330-patching-array](https://github.com/KunjAgarwal/DSA/tree/master/0330-patching-array) |
 | [0397-integer-replacement](https://github.com/KunjAgarwal/DSA/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/KunjAgarwal/DSA/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/KunjAgarwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1323-maximum-69-number](https://github.com/KunjAgarwal/DSA/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/KunjAgarwal/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -135,6 +137,7 @@
 | [0458-poor-pigs](https://github.com/KunjAgarwal/DSA/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KunjAgarwal/DSA/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/KunjAgarwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/KunjAgarwal/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KunjAgarwal/DSA/tree/master/1510-stone-game-iv) |
@@ -218,6 +221,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KunjAgarwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KunjAgarwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjAgarwal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Ternary Search
@@ -269,6 +273,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KunjAgarwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjAgarwal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Matrix
 |  |
