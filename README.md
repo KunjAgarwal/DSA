@@ -34,6 +34,7 @@
 | [0020-valid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/KunjAgarwal/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KunjAgarwal/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -310,4 +311,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
