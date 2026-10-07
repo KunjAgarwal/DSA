@@ -1,45 +1,36 @@
-import java.util.*;
 class Solution {
-    Set<String> ans = new HashSet<>();
     public List<String> removeInvalidParentheses(String s) {
-        int open = 0;
-        int close = 0;
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='('){
-                open++;
-            }else if(s.charAt(i)==')'){
-                if(open>0){
-                    open--;
-                }else{
-                    close++;
-                }
-            }
-        }
-        solve(s, 0, 0, 0, open, close, "");
-        return new ArrayList<>(ans);
+        List<String> ans=new ArrayList<>();
+        HashSet<String> set=new HashSet<String>();
+        int minBracket=removeBracket(s);
+        getAns(s, minBracket,set,ans);
+        return ans;
     }
-    public void solve(String s, int index, int open,int close, int removeOpen,int removeClose, String current){
-        if(index==s.length()){
-            if(removeOpen==0 && removeClose==0 && open==close){
-                ans.add(current);
-            }
+    public void getAns(String s, int minBracket, HashSet<String> set, List<String> ans){
+        if(set.contains(s)) return;   
+        set.add(s);
+        if(minBracket==0){
+            int remove=removeBracket(s);   
+            if(remove==0) ans.add(s);
             return;
         }
-        char ch=s.charAt(index);
-        if(ch=='('){
-            if(removeOpen>0){
-                solve(s, index + 1, open, close,removeOpen - 1, removeClose, current);
-            }
-            solve(s, index + 1, open + 1, close,removeOpen, removeClose, current + ch);
-        }else if(ch==')'){
-            if(removeClose>0){
-                solve(s, index + 1, open, close,removeOpen, removeClose - 1, current);
-            }
-            if(close<open){
-                solve(s, index + 1, open, close + 1,removeOpen, removeClose, current + ch);
-            }
-        }else{
-            solve(s, index + 1, open, close,removeOpen, removeClose, current + ch);
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)!='(' && s.charAt(i)!=')') continue;
+            String L=s.substring(0,i);
+            String R=s.substring(i+1);   
+            if(!set.contains(L+R)) getAns(L+R,minBracket-1,set,ans);
         }
+    }
+    public int removeBracket(String s){
+        Stack<Character> stack=new Stack<>();   
+        for(int i=0;i<s.length();i++){
+            char x=s.charAt(i);
+            if(x=='(') stack.push(x);
+            else if(x==')'){
+                if(!stack.isEmpty() && stack.peek()=='(') stack.pop();
+                else stack.push(x);
+            } 
+        }
+        return stack.size();
     }
 }
