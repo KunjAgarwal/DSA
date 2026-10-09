@@ -277,6 +277,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/KunjAgarwal/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KunjAgarwal/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## DP on Trees
 |  |
