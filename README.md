@@ -58,6 +58,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunjAgarwal/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/KunjAgarwal/DSA/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KunjAgarwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/KunjAgarwal/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunjAgarwal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -83,6 +84,7 @@
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KunjAgarwal/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KunjAgarwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KunjAgarwal/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/KunjAgarwal/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunjAgarwal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -117,6 +119,7 @@
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KunjAgarwal/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KunjAgarwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KunjAgarwal/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KunjAgarwal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/KunjAgarwal/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -221,6 +224,7 @@
 | [0875-koko-eating-bananas](https://github.com/KunjAgarwal/DSA/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/KunjAgarwal/DSA/tree/master/0938-range-sum-of-bst) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KunjAgarwal/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KunjAgarwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,4 +324,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KunjAgarwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
