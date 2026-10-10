@@ -45,6 +45,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KunjAgarwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjAgarwal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KunjAgarwal/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunjAgarwal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -57,6 +58,7 @@
 | [0678-valid-parenthesis-string](https://github.com/KunjAgarwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunjAgarwal/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/KunjAgarwal/DSA/tree/master/1323-maximum-69-number) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KunjAgarwal/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KunjAgarwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/KunjAgarwal/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -202,6 +204,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/KunjAgarwal/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KunjAgarwal/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KunjAgarwal/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KunjAgarwal/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Tree
 |  |
@@ -241,6 +244,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KunjAgarwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjAgarwal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KunjAgarwal/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Ternary Search
 |  |
 | ------- |
@@ -298,6 +302,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunjAgarwal/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjAgarwal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KunjAgarwal/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
 |  |
 | ------- |
