@@ -158,6 +158,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/KunjAgarwal/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/KunjAgarwal/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KunjAgarwal/DSA/tree/master/0509-fibonacci-number) |
@@ -286,6 +287,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/KunjAgarwal/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/KunjAgarwal/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KunjAgarwal/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KunjAgarwal/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
