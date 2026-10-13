@@ -14,6 +14,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KunjAgarwal/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KunjAgarwal/DSA/tree/master/1510-stone-game-iv) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/KunjAgarwal/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KunjAgarwal/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/KunjAgarwal/DSA/tree/master/2485-find-the-pivot-integer) |
@@ -58,6 +59,7 @@
 | [0678-valid-parenthesis-string](https://github.com/KunjAgarwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunjAgarwal/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/KunjAgarwal/DSA/tree/master/1323-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/KunjAgarwal/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KunjAgarwal/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KunjAgarwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -87,6 +89,7 @@
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KunjAgarwal/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/KunjAgarwal/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KunjAgarwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KunjAgarwal/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/KunjAgarwal/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -119,6 +122,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KunjAgarwal/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/KunjAgarwal/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1748-sum-of-unique-elements](https://github.com/KunjAgarwal/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
@@ -172,6 +176,7 @@
 | [0877-stone-game](https://github.com/KunjAgarwal/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KunjAgarwal/DSA/tree/master/1510-stone-game-iv) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/KunjAgarwal/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
