@@ -18,6 +18,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunjAgarwal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KunjAgarwal/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/KunjAgarwal/DSA/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/KunjAgarwal/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/KunjAgarwal/DSA/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunjAgarwal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -50,6 +51,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KunjAgarwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjAgarwal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KunjAgarwal/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2409-count-days-spent-together](https://github.com/KunjAgarwal/DSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunjAgarwal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/3498-reverse-degree-of-a-string) |
