@@ -132,6 +132,7 @@
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KunjAgarwal/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/KunjAgarwal/DSA/tree/master/0941-valid-mountain-array) |
+| [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KunjAgarwal/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -253,6 +254,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KunjAgarwal/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0938-range-sum-of-bst](https://github.com/KunjAgarwal/DSA/tree/master/0938-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -350,6 +352,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KunjAgarwal/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KunjAgarwal/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 ## Longest Increasing Subsequence
@@ -375,6 +378,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -396,6 +400,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunjAgarwal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
