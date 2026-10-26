@@ -159,6 +159,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KunjAgarwal/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KunjAgarwal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KunjAgarwal/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunjAgarwal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/KunjAgarwal/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KunjAgarwal/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KunjAgarwal/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -255,6 +256,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/KunjAgarwal/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0938-range-sum-of-bst](https://github.com/KunjAgarwal/DSA/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunjAgarwal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -355,6 +357,7 @@
 | [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KunjAgarwal/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KunjAgarwal/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunjAgarwal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -379,6 +382,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunjAgarwal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -402,6 +406,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunjAgarwal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunjAgarwal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
