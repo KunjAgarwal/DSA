@@ -80,6 +80,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/KunjAgarwal/DSA/tree/master/0771-jewels-and-stones) |
+| [0997-find-the-town-judge](https://github.com/KunjAgarwal/DSA/tree/master/0997-find-the-town-judge) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/KunjAgarwal/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
@@ -132,6 +133,7 @@
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KunjAgarwal/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/KunjAgarwal/DSA/tree/master/0941-valid-mountain-array) |
+| [0997-find-the-town-judge](https://github.com/KunjAgarwal/DSA/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KunjAgarwal/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
@@ -415,4 +417,8 @@
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KunjAgarwal/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/KunjAgarwal/DSA/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
