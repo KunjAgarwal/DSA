@@ -142,6 +142,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KunjAgarwal/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunjAgarwal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1748-sum-of-unique-elements](https://github.com/KunjAgarwal/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1861-rotating-the-box](https://github.com/KunjAgarwal/DSA/tree/master/1861-rotating-the-box) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KunjAgarwal/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -249,6 +250,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/KunjAgarwal/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/KunjAgarwal/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KunjAgarwal/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1861-rotating-the-box](https://github.com/KunjAgarwal/DSA/tree/master/1861-rotating-the-box) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KunjAgarwal/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KunjAgarwal/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Tree
@@ -368,6 +370,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KunjAgarwal/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1861-rotating-the-box](https://github.com/KunjAgarwal/DSA/tree/master/1861-rotating-the-box) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KunjAgarwal/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunjAgarwal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KunjAgarwal/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
