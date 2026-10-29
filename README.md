@@ -240,6 +240,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/KunjAgarwal/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KunjAgarwal/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -341,6 +342,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/KunjAgarwal/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/KunjAgarwal/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KunjAgarwal/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/KunjAgarwal/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KunjAgarwal/DSA/tree/master/0237-delete-node-in-a-linked-list) |
