@@ -80,6 +80,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/KunjAgarwal/DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/KunjAgarwal/DSA/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/KunjAgarwal/DSA/tree/master/0997-find-the-town-judge) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -128,6 +129,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/KunjAgarwal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/KunjAgarwal/DSA/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KunjAgarwal/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KunjAgarwal/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KunjAgarwal/DSA/tree/master/0877-stone-game) |
@@ -293,6 +295,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/KunjAgarwal/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/KunjAgarwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunjAgarwal/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -438,4 +441,8 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/KunjAgarwal/DSA/tree/master/0997-find-the-town-judge) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KunjAgarwal/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
