@@ -57,6 +57,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KunjAgarwal/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KunjAgarwal/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KunjAgarwal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -408,6 +409,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KunjAgarwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KunjAgarwal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -443,9 +445,14 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/KunjAgarwal/DSA/tree/master/0997-find-the-town-judge) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KunjAgarwal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KunjAgarwal/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/KunjAgarwal/DSA/tree/master/0739-daily-temperatures) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KunjAgarwal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
