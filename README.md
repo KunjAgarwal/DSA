@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KunjAgarwal/DSA/tree/master/0029-divide-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KunjAgarwal/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/KunjAgarwal/DSA/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KunjAgarwal/DSA/tree/master/0509-fibonacci-number) |
@@ -129,6 +130,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunjAgarwal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/KunjAgarwal/DSA/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KunjAgarwal/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/KunjAgarwal/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/KunjAgarwal/DSA/tree/master/0739-daily-temperatures) |
