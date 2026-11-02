@@ -301,6 +301,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KunjAgarwal/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/KunjAgarwal/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/KunjAgarwal/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/KunjAgarwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/KunjAgarwal/DSA/tree/master/0739-daily-temperatures) |
@@ -460,4 +461,12 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KunjAgarwal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KunjAgarwal/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KunjAgarwal/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
