@@ -17,6 +17,7 @@
 | [1510-stone-game-iv](https://github.com/KunjAgarwal/DSA/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KunjAgarwal/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunjAgarwal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/KunjAgarwal/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KunjAgarwal/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/KunjAgarwal/DSA/tree/master/2409-count-days-spent-together) |
@@ -153,6 +154,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KunjAgarwal/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunjAgarwal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1748-sum-of-unique-elements](https://github.com/KunjAgarwal/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/KunjAgarwal/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1861-rotating-the-box](https://github.com/KunjAgarwal/DSA/tree/master/1861-rotating-the-box) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
@@ -217,6 +219,7 @@
 | [0203-remove-linked-list-elements](https://github.com/KunjAgarwal/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/KunjAgarwal/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KunjAgarwal/DSA/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/KunjAgarwal/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Game Theory
 |  |
 | ------- |
@@ -328,6 +331,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/KunjAgarwal/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KunjAgarwal/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KunjAgarwal/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KunjAgarwal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -481,6 +485,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KunjAgarwal/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KunjAgarwal/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/KunjAgarwal/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
