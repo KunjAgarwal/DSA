@@ -156,6 +156,7 @@
 | [1748-sum-of-unique-elements](https://github.com/KunjAgarwal/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/KunjAgarwal/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1861-rotating-the-box](https://github.com/KunjAgarwal/DSA/tree/master/1861-rotating-the-box) |
+| [1882-process-tasks-using-servers](https://github.com/KunjAgarwal/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/KunjAgarwal/DSA/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/KunjAgarwal/DSA/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KunjAgarwal/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -428,6 +429,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/KunjAgarwal/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KunjAgarwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KunjAgarwal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
