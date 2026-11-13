@@ -177,6 +177,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KunjAgarwal/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KunjAgarwal/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KunjAgarwal/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunjAgarwal/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KunjAgarwal/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KunjAgarwal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KunjAgarwal/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -329,6 +330,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KunjAgarwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjAgarwal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KunjAgarwal/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunjAgarwal/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Ternary Search
 |  |
 | ------- |
@@ -449,6 +451,7 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KunjAgarwal/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KunjAgarwal/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunjAgarwal/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KunjAgarwal/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
@@ -479,6 +482,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KunjAgarwal/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/KunjAgarwal/DSA/tree/master/0739-daily-temperatures) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunjAgarwal/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -494,12 +498,18 @@
 | [0225-implement-stack-using-queues](https://github.com/KunjAgarwal/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KunjAgarwal/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/KunjAgarwal/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunjAgarwal/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/KunjAgarwal/DSA/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunjAgarwal/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Ordered Set
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KunjAgarwal/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunjAgarwal/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
