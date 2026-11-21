@@ -60,6 +60,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KunjAgarwal/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunjAgarwal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/KunjAgarwal/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KunjAgarwal/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KunjAgarwal/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -100,6 +101,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KunjAgarwal/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunjAgarwal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunjAgarwal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/KunjAgarwal/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KunjAgarwal/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KunjAgarwal/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KunjAgarwal/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -184,6 +186,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KunjAgarwal/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KunjAgarwal/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KunjAgarwal/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/KunjAgarwal/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/KunjAgarwal/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunjAgarwal/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KunjAgarwal/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -295,6 +298,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/KunjAgarwal/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0938-range-sum-of-bst](https://github.com/KunjAgarwal/DSA/tree/master/0938-range-sum-of-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunjAgarwal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/KunjAgarwal/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KunjAgarwal/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -302,6 +306,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/KunjAgarwal/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0938-range-sum-of-bst](https://github.com/KunjAgarwal/DSA/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/KunjAgarwal/DSA/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/KunjAgarwal/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunjAgarwal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KunjAgarwal/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
