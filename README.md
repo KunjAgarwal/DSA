@@ -55,6 +55,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KunjAgarwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjAgarwal/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KunjAgarwal/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/KunjAgarwal/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KunjAgarwal/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/KunjAgarwal/DSA/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KunjAgarwal/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
