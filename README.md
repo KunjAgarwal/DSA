@@ -28,6 +28,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunjAgarwal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KunjAgarwal/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KunjAgarwal/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KunjAgarwal/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KunjAgarwal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KunjAgarwal/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KunjAgarwal/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -191,6 +192,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/KunjAgarwal/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/KunjAgarwal/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/KunjAgarwal/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KunjAgarwal/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunjAgarwal/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KunjAgarwal/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KunjAgarwal/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -277,6 +279,7 @@
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KunjAgarwal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KunjAgarwal/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KunjAgarwal/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KunjAgarwal/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
@@ -451,6 +454,7 @@
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KunjAgarwal/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KunjAgarwal/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -536,6 +540,7 @@
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/KunjAgarwal/DSA/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/KunjAgarwal/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KunjAgarwal/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunjAgarwal/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Ordered Set
 |  |
