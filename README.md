@@ -118,6 +118,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/KunjAgarwal/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KunjAgarwal/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KunjAgarwal/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KunjAgarwal/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KunjAgarwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -162,6 +163,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KunjAgarwal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/KunjAgarwal/DSA/tree/master/1406-stone-game-iii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunjAgarwal/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KunjAgarwal/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KunjAgarwal/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KunjAgarwal/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunjAgarwal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
