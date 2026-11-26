@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/KunjAgarwal/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/KunjAgarwal/DSA/tree/master/0029-divide-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KunjAgarwal/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/KunjAgarwal/DSA/tree/master/0458-poor-pigs) |
